@@ -1,1 +1,20 @@
-# TP1-4-Ojeda_y_Tricherri
+# Primer Entrega - ISW3
+
+## Alumnos
+
+- **Ojeda Dante Lautaro**  
+  ClaveUCC: `2218203`
+
+- **Tricherri Santiago**  
+  ClaveUCC: `2205721`
+
+---
+
+## Trabajos Prácticos
+
+Este repositorio contiene los enlaces a los repositorios de los **TP1 al TP4**:
+
+- **TP1:** https://github.com/SantiagoTricherri/2025_TP01_RepoBase 
+- **TP2:** https://github.com/lautiod/TP2_Docker  
+- **TP3:** https://github.com/lautiod/TP3_IntroADO
+- **TP4:** https://github.com/lautiod/TP4_PipelineADO
