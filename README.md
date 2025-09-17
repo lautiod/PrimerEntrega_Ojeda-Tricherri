@@ -1,6 +1,6 @@
 # Primer Entrega - ISW3
 
-## Alumnos
+## Alumnos (CÁT.: A2)
 
 - **Ojeda Dante Lautaro**  
   ClaveUCC: `2218203`
