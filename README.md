@@ -2,7 +2,7 @@
 
 ## Alumnos (CÁT.: A2)
 
-- **Ojeda Dante Lautaro**  
+- **Ojeda Dante**  
   ClaveUCC: `2218203`
 
 - **Tricherri Santiago**  
